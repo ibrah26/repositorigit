@@ -1,3 +1,3 @@
 fitxer prova//Comentari ultimate 1
-//Exercici 7
+//Exercici 7//comentari mateixa linia 1
 //COmentari projecte 2
