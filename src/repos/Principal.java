@@ -12,6 +12,8 @@ public class Principal {
 		//pardfgbddfgwre
 		//787778
 		//branca1
+		
+		//FUNCIO DE CALCUL EXERCICI 5hla
 
 	}
 
