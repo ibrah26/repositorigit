@@ -9,6 +9,7 @@ public class Principal {
 		//linia afegida des de gitHub
 		//linia afegida des de eclipse2
 		//lalal
+		//par
 
 	}
 
