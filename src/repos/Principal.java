@@ -10,6 +10,7 @@ public class Principal {
 		//linia afegida des de eclipse2
 		//lalal
 		//pardfgbddfgwre
+		//787778
 
 	}
 
