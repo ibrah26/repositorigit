@@ -7,6 +7,7 @@ public class Principal {
 		
 		//PROGRAMA DEL EXERCICI 3
 		//linia afegida des de gitHub
+		//linia afegida des de eclipse
 
 	}
 
