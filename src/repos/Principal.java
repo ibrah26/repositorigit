@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		//PROGRAMA DEL EXERCICI 3
+		//linia afegida des de gitHub
 
 	}
 
