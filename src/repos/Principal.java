@@ -14,7 +14,20 @@ public class Principal {
 		//branca1
 		
 		//FUNCIO DE CALCUL EXERCICI 5hlaasdfasdfasdf
+        //adsfouasdflkuashdlfuikhasdlf
+		//asdfasdfasd
+		//SDFASFSDFASDFASDFASDFASDFASD
+		//////////////////////////////
+		//SDFASFSDFASDFASDFASDFASDFASD
+		//////////////////////////////
 
+		//SDFASFSDFASDFASDFASDFASDFASD
+		//////////////////////////////
+		//SDFASFSDFASDFASDFASDFASDFASD
+		//////////////////////////////
+
+		//SDFASFSDFASDFASDFASDFASDFASD
+		//////////////////////////////
 	}
 
 }
