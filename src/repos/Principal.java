@@ -7,14 +7,14 @@ public class Principal {
 		
 		//PROGRAMA DEL EXERCICI 3
 		//linia afegida des de gitHub
-		//linia afegida des de eclipse2
+		//linia afegida des de eclipse2asdfa
 		//lalal
 		//dfgbddfgwre
 		//787778
 		//branca1
 		
-		//FUNCIO DE CALCUL EXERCICI 5hlaasdfasdfasdf
-        //adsfouasdflkuashdlfuikhasdlf
+		//FUNCIO DE CALCUL EXERCICasdfI 5hlaasdfasdfasdf
+        //adsfouasdflkuashasdfdlfuikhasdlf
 		//asdfasdfasd
 		//SDFASFSDFASDFASDFASDFASDFASD
 		//////////////////////////////
