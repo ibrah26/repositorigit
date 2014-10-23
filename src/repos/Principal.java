@@ -9,8 +9,11 @@ public class Principal {
 		//linia afegida des de gitHub
 		//linia afegida des de eclipse2
 		//lalal
-		//pardfgbddfgwre
+		//dfgbddfgwre
 		//787778
+		//branca1
+		
+		//FUNCIO DE CALCUL EXERCICI 5hlaasdfasdfasdf
         //adsfouasdflkuashdlfuikhasdlf
 		//asdfasdfasd
 		//SDFASFSDFASDFASDFASDFASDFASD
@@ -25,6 +28,8 @@ public class Principal {
 
 		//SDFASFSDFASDFASDFASDFASDFASD
 		//////////////////////////////
+		
+		//texte introduït des de eclipse
 	}
 
 }
