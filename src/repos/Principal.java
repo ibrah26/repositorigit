@@ -9,7 +9,7 @@ public class Principal {
 		//linia afegida des de gitHub
 		//linia afegida des de eclipse2
 		//lalal
-		//pardfgbddfgwre
+		//dfgbddfgwre
 		//787778
 		//branca1
 		
@@ -28,6 +28,8 @@ public class Principal {
 
 		//SDFASFSDFASDFASDFASDFASDFASD
 		//////////////////////////////
+		
+		//texte introduït des de eclipse
 	}
 
 }
