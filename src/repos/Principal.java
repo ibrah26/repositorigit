@@ -5,22 +5,20 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//PROGRAMA DEL EXERCICI 3
-		//linia afegida des de gitHub
+		//PROGasdfRAMA DEL EXERCICI 3
+		//liniasdfa afegida des de gitHub
 		//linia afegida des de eclipse2asdfa
-		//lalal
+		//lalaal
 		//dfgbddfgwre
-		//787778
+		//7877f78
 		//branca1
 		
-		//FUNCIO DE CALCUL EXERCICasdfI 5hlaasdfasdfasdf
-        //adsfouasdflkuashasdfdlfuikhasdlf
-		//asdfasdfasd
+		//FUNCsdfIO DE CALCUL EXERCICasdfI 5hlaasdfasdfasdf
+        //adsfouasdfdfasd
+		//SDFASFsdf//////////////////////
 		//SDFASFSDFASDFASDFASDFASDFASD
 		//////////////////////////////
-		//SDFASFSDFASDFASDFASDFASDFASD
-		//////////////////////////////
-
+asdf
 		//SDFASFSDFASDFASDFASDFASDFASD
 		//////////////////////////////
 		//SDFASFSDFASDFASDFASDFASDFASD
